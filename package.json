@@ -1,0 +1,26 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "#### Team Profile Generator  [TheAnswer07](https://github.com/TheAnswer07)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAnswer07/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheAnswer07/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/TheAnswer07/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
