@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/TheAnswer07/Team-Profile-Generator#readme",
   "dependencies": {
+    "fs-extra": "^10.1.0",
     "inquirer": "^8.2.4"
   }
 }
