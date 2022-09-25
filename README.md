@@ -33,7 +33,7 @@ Thanks to Michael Scharfas (2017mike) for all the considerable support connected
 
 ### Features:
 
-X
+Test files | UI individual profiles files | Main UI page file | Profiles generated with Roles, IDs, Emails, Office number (Manager) - GitHub link (Engineer) - School (Intern)
 
 ### Contribution:
 You can contribute to this project by accessing my GitHub page.
