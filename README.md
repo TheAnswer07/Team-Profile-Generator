@@ -48,12 +48,12 @@ You can contribute to this project by accessing my GitHub page.
 
 1. Tests run passed:
 
-![Tests run passed](screenshots/Tests-run-passed.png "Tests run passed")
+![Tests run passed](screenshots/Tests%20run%20passed.png "Tests run passed")
 
 2. Profiles generated via VScode Terminal:
 
-![Profiles generated via VScode Terminal](screenshots/Profiles-generated-via-VScode-Terminal.png "Profiles generated via VScode Terminal")
+![Profiles generated via VScode Terminal](screenshots/Profiles%20generated%20via%20VScode%20Terminal.png "Profiles generated via VScode Terminal")
 
 3. Team Profile UI:
 
-![Team Profile UI](screenshots/Team-Profile-UI.png "Team Profile UI")
+![Team Profile UI](screenshots/Team%20Profile%20UI.png "Team Profile UI")
