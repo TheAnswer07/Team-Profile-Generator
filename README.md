@@ -13,9 +13,9 @@
 * [GitHub Profile Link](#github-profile)
 * [GitHub App Link](#links)
 * [Screenshots:](#screenshots)
-    1. [x](#x)
-    2. [y](#y)
-    3. [z](#z)
+    1. [Tests run passed](#Tests-run-passed)
+    2. [Profiles generated via VScode Terminal](#Profiles-generated-via-VScode-Terminal)
+    3. [Team Profile UI](#Team-Profile-UI)
 
 
 
@@ -46,14 +46,14 @@ You can contribute to this project by accessing my GitHub page.
 
 ### Screenshots:
 
-1. X
+1. Tests run passed:
 
-![x]( "x")
+![Tests run passed](screenshots/Tests-run-passed.png "Tests run passed")
 
-2. Y
+2. Profiles generated via VScode Terminal:
 
-![y]( "y")
+![Profiles generated via VScode Terminal](screenshots/Profiles-generated-via-VScode-Terminal.png "Profiles generated via VScode Terminal")
 
-3. Z
+3. Team Profile UI:
 
-![z]( "z")
+![Team Profile UI](screenshots/Team-Profile-UI.png "Team Profile UI")
