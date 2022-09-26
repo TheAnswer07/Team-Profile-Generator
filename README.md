@@ -11,7 +11,8 @@
 * [Features](#features)
 * [Contribution](#contribution)
 * [GitHub Profile Link](#github-profile)
-* [GitHub App Link](#links)
+* [GitHub App Link](#app-github-link)
+* [Walkthrough video demonstrating App Functionality](#app-video-link)
 * [Screenshots:](#screenshots)
     1. [Tests run passed](#Tests-run-passed)
     2. [Profiles generated via VScode Terminal](#Profiles-generated-via-VScode-Terminal)
@@ -38,11 +39,14 @@ Test files | UI individual profiles files | Main UI page file | Profiles generat
 ### Contribution:
 You can contribute to this project by accessing my GitHub page.
 
-### GitHub Profile Link:
-[GitHub](https://github.com/TheAnswer07)
+### GitHub Link:
+[GitHub Profile](https://github.com/TheAnswer07)
 
-### Links:
+### App GitHub Link:
 [GitHub App Link](https://theanswer07.github.io/Team_Profile_Generator/)
+
+### App Video Link:
+[Walkthrough video demonstrating App Functionality](https://drive.google.com/file/d/1xpp6ir2s7bQrf4VjvzHBUp3Ci7_vzt6i/view)
 
 ### Screenshots:
 
